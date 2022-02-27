@@ -1,3 +1,4 @@
+// if statement exercise 1
 const raining = true;
 const cold = false;
 
@@ -11,6 +12,17 @@ if (cold) {
 
 console.log("Now you're ready to go outside!");
 
+// if statement exercise 2
+
+const cold = false;
+
+if (cold) {
+  console.log("Make sure you pick out a scarf!");
+} else {
+  console.log("Short sleeves are fine.");
+}
+
+// if statement exercise 3
 
 const temperature = 15;
 
@@ -23,3 +35,4 @@ if (temperature < 0) {
 }
 
 console.log("Now you're ready to go outside!");
+
